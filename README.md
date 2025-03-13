@@ -17,4 +17,4 @@ Prerequisite :
 2. Git and docker installed on the machine.
 3. Docker should be started before building docker image.
 4. And your favourite code editor 
-
+Successfully created and deployed automated CICD pipeline for my Springboot application via GitHub
